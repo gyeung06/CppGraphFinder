@@ -1,0 +1,107 @@
+
+command: input
+enter the file name that has the graph: g1.txt
+
+command: connected
+the graph is NOT connected
+
+command: document
+there is one cycle
+
+command: find
+the graph has at least one cycle
+
+command: prints
+0 1 2 3 4 
+5 
+6 
+
+command: twin
+
+for twin graph 
+command: connected
+the graph is NOT connected
+
+for twin graph 
+command: prints
+0 1 2 3 4 
+5 
+6 
+
+for twin graph 
+command: document
+exit the 'twin mode'
+
+for twin graph 
+command: quit
+
+command: input
+enter the file name that has the graph: g2.txt
+
+command: connected
+the graph is connected
+
+command: document
+there is one cycle
+
+command: find
+the graph has at least one cycle
+
+command: prints
+0 1 2 3 4 
+
+command: twin
+
+for twin graph 
+command: connected
+the graph is connected
+
+for twin graph 
+command: prints
+0 1 2 3 4 
+
+for twin graph 
+command: document
+exit the 'twin mode'
+
+for twin graph 
+command: quit
+
+command: input
+enter the file name that has the graph: g3.txt
+
+command: connected
+the graph is NOT connected
+
+command: document
+there is one cycle
+
+command: find
+the graph has at least one cycle
+
+command: prints
+0 
+1 2 3 4 5 6 7 8 
+
+command: twin
+
+for twin graph 
+command: connected
+the graph is NOT connected
+
+for twin graph 
+command: prints
+0 
+1 2 3 4 5 6 7 8 
+
+for twin graph 
+command: document
+exit the 'twin mode'
+
+for twin graph 
+command: quit
+
+command: document
+exit the program 
+
+command: quit

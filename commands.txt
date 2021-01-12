@@ -1,0 +1,42 @@
+input
+g1.txt
+connected
+document 
+there is one cycle
+find
+prints
+twin
+connected
+prints
+document
+exit the 'twin mode'
+quit
+input
+g2.txt
+connected
+document 
+there is one cycle
+find
+prints
+twin
+connected
+prints
+document
+exit the 'twin mode'
+quit
+input
+g3.txt
+connected
+document 
+there is one cycle
+find
+prints
+twin
+connected
+prints
+document
+exit the 'twin mode'
+quit
+document
+exit the program 
+quit 
